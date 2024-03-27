@@ -1,0 +1,3 @@
+../Src/Indicators.c:7:6:rightON	16	static
+../Src/Indicators.c:24:6:leftON	16	static
+../Src/Indicators.c:42:6:Parking	8	static

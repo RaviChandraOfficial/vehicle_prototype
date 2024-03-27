@@ -1,0 +1,16 @@
+C:/Users/XVX2KOR/Desktop/Training/STM-32/Headers/core/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/ConFig.c:6:6:Buzz_Con	4	static
+../Src/ConFig.c:15:6:LED_Con	4	static
+../Src/ConFig.c:25:6:Ignition_ButtonCon	4	static
+../Src/ConFig.c:32:6:Button_Con	4	static
+../Src/ConFig.c:40:6:EXTI3_Con	8	static,ignoring_inline_asm
+../Src/ConFig.c:54:6:EXTI7415_Con	8	static,ignoring_inline_asm
+../Src/ConFig.c:74:6:ON13	4	static
+../Src/ConFig.c:80:6:OFF13	4	static
+../Src/ConFig.c:86:6:ON14	4	static
+../Src/ConFig.c:92:6:OFF14	4	static
+../Src/ConFig.c:98:6:ON15	4	static
+../Src/ConFig.c:104:6:OFF15	4	static
+../Src/ConFig.c:110:6:ON9	4	static
+../Src/ConFig.c:116:6:OFF9	4	static
+../Src/ConFig.c:123:6:DelayTim5_Con	4	static

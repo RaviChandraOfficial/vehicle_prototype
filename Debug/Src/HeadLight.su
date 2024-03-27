@@ -1,0 +1,4 @@
+../Src/HeadLight.c:6:6:PWMTim3_Con	4	static
+../Src/HeadLight.c:21:6:GPIOC_PWM_Con	4	static
+../Src/HeadLight.c:31:6:GPIOC_Output_Con	4	static
+../Src/HeadLight.c:40:6:dutycycle	16	static

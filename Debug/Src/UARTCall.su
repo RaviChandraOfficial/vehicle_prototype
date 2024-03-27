@@ -1,0 +1,2 @@
+C:/Users/XVX2KOR/Desktop/Training/STM-32/Headers/core/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/UARTCall.c:5:7:Event_Tim4USART	8	static
